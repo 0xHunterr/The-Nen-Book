@@ -28,6 +28,7 @@
 	* [API_Recon](APISec/API_Recon.md)
 	* [Broken_Access_Control & Info_Leaks](APISec/Broken_Access_Control%20&%20Info_Leaks.md)
 * [Cloud_Security](CloudSec/README.md)
+	* [Cloud Pentesting](CloudSec/Cloud%20Pentesting.md)
 * [Bug_Bounty](Bug_Bounty/README.md)
 	* [Picking_A_BugBounty_Program](Bug_Bounty/Picking_A_BugBounty_Program.md)
 	* [Writing_A_Good_Report](Bug_Bounty/Writing_A_Good_Report.md)

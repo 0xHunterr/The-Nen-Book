@@ -1,8 +1,8 @@
 - [ ] Check SW version numbers and look for public exploits
 - [ ] Try path traversal
-- [ ] Search the waybackmachine https://web.archive.org/web/*/example.com/* (list all urls)
+- [ ] Search the waybackmachine https://web.archive.org/web/*/example.com/*  (list all urls)
 	- [ ] Search for (/admin, .conf, .env, .js, .php) in the listed urls 
-- [ ] Search for pastebin dumps using their API or tools like PasteHunter or [Pastebin-scraper](https://github.com/streaak/pastebin-scraper/)can also automate the process. (`./scrape.sh -g KEYWORD`)
+- [ ] Search for pastebin dumps using their API or tools like PasteHunter or [Pastebin-scraper](https://github.com/streaak/pastebin-scraper/) can also automate the process. (`./scrape.sh -g KEYWORD`)
 - [ ] Check for .git Directory (ex->`https://example.com/.git`) if it listed contents u can download the Dir using `wget -r example.com/.git`
 	- [ ] if it didn't listed and u got something like 403, check `curl https://example.com/.git/config` and try access the `.git/HEAD`, traverse through the directory and download the files u want 
 	- [ ] the work flow will be something like this ```
