@@ -14,7 +14,7 @@
 	- Finding and comparing historical snapshots of API documentation can simplify testing for Improper Assets Management.
 	- Test for older Versions ex-> `/api/v2/user_emails` -> `/api/v1/user_emails
 # Active Recon
-- search for other API endpoints by using recon techniques from [Web_Hacking_Reconnaissance](../Web_AppSec/Web_Hacking_Reconnaissance.md) 
+- search for other API endpoints by using recon techniques from [Web_Recon](../Web_AppSec/Web_Recon.md) 
 - Try Fuzzing techniques for discovering API endpoints and resources, the best for APIs is Kite Runner
 	- kiterunner:
 ```

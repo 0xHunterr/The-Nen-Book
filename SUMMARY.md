@@ -1,6 +1,6 @@
 - [Introduction](README.md)
 * [Web_AppSec](Web_AppSec/README.md)
-    * [Web_Recon](Web_AppSec/Web_Hacking_Reconnaissance.md) 
+    * [Web_Recon](Web_AppSec/Web_Recon.md) 
     * [XSS](Web_AppSec/XSS.md)
     * [SSRF](Web_AppSec/SSRF.md)
     * [CSRF](Web_AppSec/CSRF.md)

