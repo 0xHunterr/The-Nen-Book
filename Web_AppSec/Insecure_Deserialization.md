@@ -26,3 +26,8 @@ If you are on white box pentesting and have  search for `serialize()` and `uns
   `O:4:"User":2:{s:8:"username";s:13:"administrator";s:12:"access_token";i:0;}`
 - [ ] You can sometimes read source code by appending a tilde (`~)` to a filename to retrieve an editor-generated backup file. `/libs/CustomTemplate.php~`
 - [ ] If u have access to the source code test for (Injecting arbitrary objects, Magic methods, Gadget chains)
+## Mitigation
+Generally speaking, deserialization of user input should be avoided unless absolutely necessary
+- implement a digital signature to check the integrity of the data.
+- any checks must take place **before** beginning the deserialization process
+- If possible, you should avoid using generic deserialization features altogether Instead, you could create your own class-specific serialization methods so that you can at least control which fields are exposed.
