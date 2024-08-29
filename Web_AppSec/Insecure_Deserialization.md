@@ -1,4 +1,4 @@
-### PHP serialization format
+## PHP serialization format
 letters representing the data type and numbers representing the length of each entry. 
 For example, consider a User object with the attributes:
 ```php
