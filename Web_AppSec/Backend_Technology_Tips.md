@@ -33,7 +33,7 @@
 - MAC Disabled
 - MAC Enabled (encryption key via brute-force)
 - Web config file
-
+---
 # Node.js
 ## Information Gathering
 - Cookie (connect.sid)
@@ -52,6 +52,7 @@
 ### IDOR - Node.js
 ![](../Media/Web%20AppSec%20Images/Pasted%20image%2020240829161959.png)
 
+---
 # Java
 ## Information Gathering
 - Cookie (JSESSIONID) 
