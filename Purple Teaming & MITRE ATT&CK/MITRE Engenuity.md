@@ -10,13 +10,13 @@ These are two examples of the major contributions the non-profit MITRE Corporati
 
 We know that **MITRE** does a lot more than **ATT&CK**, but we will focusing on the ATT&CK Framework. Therefore, we should look more closely at the group within MITRE that is responsible for all things ATT&CK. That group is **MITRE Engenuity** 
 
-## **Center for Threat-Informed Defense (CTID)**
+## Center for Threat-Informed Defense (CTID)
 
 The Center for Threat–Informed Defense is a non-profit, privately funded research and
 
 development organization operated by MITRE Engenuity
 
-### The CTID conducts research in several areas, including:
+#### The CTID conducts research in several areas, including:
 
 - framework to new technology domains such as cloud computing.
 - Identifying and researching new ways to thwart ATT&CK techniques across the Protect, Detect, and Respond stages of defense
@@ -24,13 +24,13 @@ development organization operated by MITRE Engenuity
 
 All research and development outputs from the CTID are made globally available to maximize their impact.
 
-### **ATT&CK Evaluations**
+### ATT&CK Evaluations
 
 ATT&CK Evaluations are a critical component of the ATT&CK, aimed at assessing the effectiveness of various cybersecurity solutions in detecting and mitigating real-world threats.
 
 By simulating the tactics, techniques, and procedures (TTPs) of known adversaries, these evaluations provide a unique opportunity for security vendors and practitioners to better understand the strengths and weaknesses of their products and services.
 
-### **Objective and Transparent Evaluation Process**
+### Objective and Transparent Evaluation Process
 
 MITRE Engenuity's ATT&CK Evaluations focus on providing an objective and transparent assessment of cybersecurity solutions.
 
