@@ -10,6 +10,6 @@ A list of personal notes and tips collected from a lot of recourses in different
 - Cloud Security
 - Network Pentesting
 - Code Review
-- Threat Hunting
+- Purple Teaming & MITRE ATT&CK
 # Contributions
 Contributions are welcomed by making a pull request to the [GitHub repo](https://github.com/0xHunterr/The-Nen-Book), or feel free to contact me at: [Twitter (X)](https://twitter.com/HunterXReda) [LinkedIn](https://www.linkedin.com/in/0xhunter/)
