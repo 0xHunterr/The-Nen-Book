@@ -24,7 +24,7 @@ it does a handful of things that assist with intelligence analysis such as:
 - Tracking environmental influences
 - Connecting all of this together to shape and prioritize defenses and react to incidents
 
-we used CRITs here as an example, it gives us a good illustration of what the features of cyber threat intelligence are for more info about CRITs visit : {% embed url="https://github.com/crits/crits/wiki" %}
+we used CRITs here as an example, it gives us a good illustration of what the features of cyber threat intelligence are for more info about [CRITs](https://github.com/crits/crits/wiki)
 
 
 moving forward to the second element which is
