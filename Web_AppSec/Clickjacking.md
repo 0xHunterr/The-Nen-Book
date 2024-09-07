@@ -82,7 +82,7 @@ If the user is logged into the banking site, they’ll be logged into the `ifram
 ==This is a simplified example. In reality, payment applications will not be implemented this way==, because it would violate data security standards
 
 Another thing to remember is that the ==presence of an easy-to-prevent vulnerability on a critical functionality==, like this scenario, is a symptom that the application does not follow the best practices of secure development, This example application is likely to contain other vulnerabilities, and you should test it extensively.
-# Prevention
+
 Two conditions must be met for a clickjacking vulnerability to happen:
 1. the vulnerable page has to have functionality that executes a state-changing action on the user’s behalf like (changing the user’s account settings )
 2. the vulnerable page has to allow itself to be framed by an `iframe` on another site
@@ -94,7 +94,7 @@ X-Frame-Options: DENY
 X-Frame-Options: SAMEORIGIN
 ```
 
-to prevent :
+# Prevention:
 1. the site should serve one of these options on all pages that contain state-changing actions
 2. When the `SameSite` flag on a cookie is set to Strict or Lax, that cookie won't be sent in requests made within a third-party `iframe`:
      `Set-Cookie: PHPSESSID=UEhQU0VTU0lE; Max-Age=86400; Secure; HttpOnly; SameSite=Strict
@@ -127,7 +127,7 @@ Then go through each of the state-changing functionalities you’ve found and Se
 ## Step 3: Confirm the Vulnerability
 You should try to execute the state-changing action through the framed page you just constructed and see if the action succeeds. If you can trigger the action via clicks alone through the `iframe`, the action is vulnerable to clickjacking.
 
-# Code Templates and Payloads
+# POC & Code Templates
 ### HTML code template
 ```html
 <html>

@@ -66,13 +66,14 @@ If the application is using a hashed or randomized ID
 
 - If no IDs exist in the generated request, try adding one to the request
 - Append id, `user_id`, `message_id`, or other object references to the URL query, or the POST body parameters GET` /api_v1/messages` => GET `/api_v1/messages?user_id=ANOTHER_USERS_ID`
+- Try Parameter Pollution
 
 ### Keep an Eye Out for Blind IDORs
 
 sometimes endpoints susceptible to IDOR don’t respond with the leaked information directly.
 For example, imagine that this endpoint on example.com allows users to email themselves a copy of a receipt:
 
-```
+```http
 POST /get_receipt
 (POST request body)
 receipt_id=3001
