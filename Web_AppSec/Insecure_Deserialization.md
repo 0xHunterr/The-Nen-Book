@@ -1,6 +1,4 @@
-# Insecure\_Deserialization
-
-### PHP serialization format
+## PHP serialization format
 
 letters representing the data type and numbers representing the length of each entry. For example, consider a User object with the attributes:
 
@@ -21,7 +19,7 @@ This can be interpreted as follows:
 * `s:10:"isLoggedIn"` - The key of the second attribute is the 10-character string `"isLoggedIn"`
 * `b:1` - The value of the second attribute is the Boolean value `true` If you are on white box pentesting and have search for `serialize()` and `unserialize()` functions
 
-### Checklist
+## Checklist
 
 * [ ] look for serialized objects in cookies, headers and use inspector to inspect, decode them
 * [ ] Modifying object attributes `O:4:"User":2:{s:8:"username";s:6:"carlos";s:7:"isAdmin";b:0;}`
@@ -29,7 +27,7 @@ This can be interpreted as follows:
 * [ ] You can sometimes read source code by appending a tilde (`~)` to a filename to retrieve an editor-generated backup file. `/libs/CustomTemplate.php~`
 * [ ] If u have access to the source code test for (Injecting arbitrary objects, Magic methods, Gadget chains)
 
-### **Mitigation**
+## Mitigation
 
 Generally speaking, deserialization of user input should be avoided unless absolutely necessary
 

@@ -1,6 +1,8 @@
+
 - some websites may exclude these types of vulnerabilities from the scope, So read the scope well before testing! 
 - You can find it in any submission form like (login forms, contact forms, registration forms, and other types of forms that accept user input).
 ## Testing and Checklist
+
 -  look for any submission form like (login forms, contact forms, registration forms, and other types of forms that accept user input).
 - Try to submit a lot of submissions using Intruder, FFUF, ZAP...etc.
 - If u encountered a rate limit technique try to identify how is working and how it identifies u.
