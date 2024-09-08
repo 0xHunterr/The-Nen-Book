@@ -10,6 +10,6 @@
 - try and break out of the statement using common templating syntax and attempt to inject arbitrary HTML after it: `http://vulnerable-website.com/?greeting=data.username}}<tag>` Try different syntax
 ## Identify
 - submitting invalid syntax ex: `<%=foobar%>``<%=foobar%>`
+
 ![](../Media/Web%20AppSec%20Images/Pasted%20image%2020240908181755.png)
 -  same payload can sometimes return a successful response in more than one template language. For example, the payload `{{7*'7'}}` returns `49` in Twig and `7777777` in Jinja2
--  
