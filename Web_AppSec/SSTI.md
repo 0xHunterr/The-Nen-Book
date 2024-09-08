@@ -7,7 +7,8 @@
 -  the vulnerability is exposed by user input being placed within a template expression
 - first establish that the parameter doesn't contain a direct XSS vulnerability by injecting arbitrary HTML into the value: `http://vulnerable-website.com/?greeting=data.username<tag>`
   In the absence of XSS, this will usually either result in a blank entry in the output (just `Hello` with no username),
-- try and break out of the statement using common templating syntax and attempt to inject arbitrary HTML after it: `http://vulnerable-website.com/?greeting=data.username}}<tag>` Try different syntax
+- try and break out of the statement using common templating syntax and attempt to inject arbitrary HTML after it: `http://vulnerable-website.com/?greeting=data.username}}<tag>`
+- Try different syntax
 ## Identify
 - submitting invalid syntax ex: `<%=foobar%>``<%=foobar%>`
 
