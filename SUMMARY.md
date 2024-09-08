@@ -6,6 +6,7 @@
     * [SSRF](Web_AppSec/SSRF.md)
     * [CSRF](Web_AppSec/CSRF.md)
     * [XXE](Web_AppSec/XXE.md)
+    * [SSTI](Web_AppSec/SSTI.md)
     * [Insecure_Deserialization](Web_AppSec/Insecure_Deserialization.md)
     * [Open_Redirects](Web_AppSec/Open_Redirects.md)
     * [Information_Disclosures](Web_AppSec/Information_Disclosures.md)
