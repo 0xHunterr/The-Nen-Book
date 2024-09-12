@@ -1,6 +1,6 @@
 # Welcome to the Nen-Book
-
 ![](Media/wallpaperflare.com_wallpaper%20(3).jpg)
+
 Hey Hunters, I'm Ahmed Reda(0xHunterr) an OffSec Samurai, CS student who is trying to share some Insights, Notes, Walkthroughs and Methodologies in different categories in Cyber Security collected from various resources and books.
 [Twitter (X)](https://twitter.com/HunterXReda)
 [LinkedIn](https://www.linkedin.com/in/0xhunter/)
