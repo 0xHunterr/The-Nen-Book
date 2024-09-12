@@ -4,6 +4,7 @@ Hey Hunters, I'm Ahmed Reda(0xHunterr) an OffSec Samurai, CS student who is tryi
 [Twitter (X)](https://twitter.com/HunterXReda)
 [LinkedIn](https://www.linkedin.com/in/0xhunter/)
 for better experience visit the [Gitbook](https://0xhunterr.gitbook.io/the-nen-book/)
+
 # What to expect ?
 A list of personal notes and tips collected from a lot of recourses in different categories like:
 - WebApp Security
