@@ -24,6 +24,7 @@ X-Forwarded-For: 127.0.0.1
 - Inserting blank bytes like `%00`, `%0d%0a`, `%0d`, `%0a`, `%09`, `%0C`, `%20` into code or parameters can be a useful strategy. like-> `code=1234%0a`
 
 ## Impact
--  risk of the email address domain being added to a spam list.
+it depends on the scenario, let's suppose a situation where we found it in Registration form where it sends email to verify your account the impact would be:
+- risk of the email address domain being added to a spam list.
 -  reputational damage for the business as customers’ trust is impacted through receiving large amounts of unwanted and unsolicited emails.
 - for systems that use Software-as-a-Service (SaaS) email providers, there can be direct financial costs associated with sending large volumes of emails to unconfirmed user’s emails.
