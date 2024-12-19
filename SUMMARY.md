@@ -7,7 +7,11 @@
 - [CyCTF Quals 2024](Writeups/CyCTF%202024%20Quals%202024/README.md)
 	- [OSINT Challenges CyCTF Quals 2024](Writeups/CyCTF%202024%20Quals%202024/OSINT%20Challenges%20CyCTF%20Quals%202024.md)
 	- [Old Friend OSINT Challenge CyCTF 2024 Quals Writeup](Writeups/CyCTF%202024%20Quals%202024/Old%20Friend%20OSINT%20Challenge%20CyCTF%202024%20Quals%20Writeup.md)
+<<<<<<< HEAD
 - [PicoCTF](Writeups/PicoCTF/README.md)
+=======
+- [README](Writeups/PicoCTF/README.md)
+>>>>>>> 86e65a094085a322ac8c7d5ba10e7701b6a049e3
 	- [PicoCTF 2024 Web Exploitation Challenges](Writeups/PicoCTF/PicoCTF%202024%20Web%20Exploitation%20Challenges.md)
 	- [PicoCTF 2024 General Skills Challenges](Writeups/PicoCTF/PicoCTF%202024%20General%20Skills%20Challenges.md)
 	- [PicoCTF 2021 Web Exploitation Challenges Walkthrough](Writeups/PicoCTF/PicoCTF%202021%20Web%20Exploitation%20Challenges%20Walkthrough.md)
