@@ -1,5 +1,18 @@
 - [Whoami](README.md)
-## 🕸️Web_AppSec
+## ✏️ Write-ups
+- [README](Writeups/README.md)
+- [Intigriti 1337Up 2024](Writeups/Intigriti%201337Up%202024/README.md)
+	- [Intigriti 1337Up 2024-CTF OSINT Challenges](Writeups/Intigriti%201337Up%202024/Intigriti%201337Up%202024-CTF%20OSINT%20Challenges.md)
+	- [Intigriti 1337Up Live 2024-CTF Web Challenges](Writeups/Intigriti%201337Up%202024/Intigriti%201337Up%20Live%202024-CTF%20Web%20Challenges.md)
+- [CyCTF Quals 2024](Writeups/CyCTF%202024%20Quals%202024/README.md)
+	- [OSINT Challenges CyCTF Quals 2024](Writeups/CyCTF%202024%20Quals%202024/OSINT%20Challenges%20CyCTF%20Quals%202024.md)
+	- [Old Friend OSINT Challenge CyCTF 2024 Quals Writeup](Writeups/CyCTF%202024%20Quals%202024/Old%20Friend%20OSINT%20Challenge%20CyCTF%202024%20Quals%20Writeup.md)
+- [README](Writeups/PicoCTF/README.md)
+	- [PicoCTF 2024 Web Exploitation Challenges](Writeups/PicoCTF/PicoCTF%202024%20Web%20Exploitation%20Challenges.md)
+	- [PicoCTF 2024 General Skills Challenges](Writeups/PicoCTF/PicoCTF%202024%20General%20Skills%20Challenges.md)
+	- [PicoCTF 2021 Web Exploitation Challenges Walkthrough](Writeups/PicoCTF/PicoCTF%202021%20Web%20Exploitation%20Challenges%20Walkthrough.md)
+	- [PicoCTF 2021 Web Exploitation Challenges Walkthrough](Writeups/PicoCTF/PicoCTF%202021%20Web%20Exploitation%20Challenges%20Walkthrough.md)
+## 🕸️ Web_AppSec
 * [Web_Recon](Web_AppSec/Web_Recon.md) 
 * [ATO](Web_AppSec/ATO.md)
 * [Backend_Technology_Tips](Web_AppSec/Backend_Technology_Tips.md)
@@ -17,7 +30,7 @@
 * [Bash_Scripting](Web_AppSec/Bash_Scripting.md)
 * [Authentication_Vulnerabilities](Web_AppSec/Authentication_Vulnerabilities.md)
 * [App_Logic_Errors](Web_AppSec/App_Logic_Errors.md)
-## 📺Network_Pentesting
+## 📺 Network_Pentesting
 * [Scanning & Enumeration](Network_Pentesting/Scanning%20&%20Enumeration.md)
 * [Active_Directory](Network_Pentesting/Active_Directory%20AD/README.md)
 	* [AD_Overview_&_ Lab Build](Network_Pentesting/Active_Directory%20AD/AD_Overview_&_Lab%20Build.md)
@@ -27,18 +40,18 @@
 * [Buffer_Overflow_Attacks](Network_Pentesting/Buffer_Overflow_Attacks.md)
 * [Web_Applications](Network_Pentesting/Web_Applications.md)
 * [Privilege_Escalation](Network_Pentesting/Privilege_Escalation.md)
-## 🔬Code_Review
+## 🔬 Code_Review
 * [Source_Code_Review_101](Code_Review/Source_Code_Review_101.md)
 * [Code Review Tools](Code_Review/Code%20Review%20Tools.md)
-## 🤵APISec
+## 🤵 APISec
 * [API\_Recon](APISec/API\_Recon.md)
 * [Broken\_Access\_Control & Info\_Leaks](<APISec/Broken\_Access\_Control & Info\_Leaks.md>)
-## 🌩️Cloud\_Security
+## 🌩️ Cloud\_Security
 * [Cloud Pentesting](<CloudSec/Cloud Pentesting.md>)
-## 🐝Bug\_Bounty
+## 🐝 Bug\_Bounty
 * [Picking\_A\_BugBounty\_Program](Bug\_Bounty/Picking\_A\_BugBounty\_Program.md)
 * [Writing\_A\_Good\_Report](Bug\_Bounty/Writing\_A\_Good\_Report.md)
-## 📡Purple Teaming & MITRE ATT&CK
+## 📡 Purple Teaming & MITRE ATT&CK
 * [Introducing the ATT&CK Framework](Purple%20Teaming%20&%20MITRE%20ATT&CK/Introducing%20the%20ATT&CK%20Framework.md)
 * [MITRE Engenuity](Purple%20Teaming%20&%20MITRE%20ATT&CK/MITRE%20Engenuity.md)
 * [Threat-Informed Defense](Purple%20Teaming%20&%20MITRE%20ATT&CK/Threat-Informed%20Defense.md)
