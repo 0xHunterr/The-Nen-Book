@@ -30,8 +30,8 @@ This blog is a curated collection of personal notes, tips, and methodologies acr
 
 Your contributions are highly encouraged! Feel free to submit a pull request to the [GitHub repository](#), or reach out to me directly via:
 
-- [Medium](#)
-- [X (formerly Twitter)](#)
-- [LinkedIn](#)
-- [GitHub](#)
+- [Medium](https://medium.com/@0xhunterr)
+- [X (formerly Twitter)](https://x.com/HunterXReda)
+- [LinkedIn](https://www.linkedin.com/in/0xhunter/)
+- [GitHub](https://github.com/0xHunterr)
 - Email: **sir_reda@intigriti.me**
