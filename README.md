@@ -1,4 +1,4 @@
-# Welcome to the Nen-Book
+# **Welcome to the Nen-Book**
 ![](Media/wallpaperflare.com_wallpaper%20(3).jpg)
 
 Greetings, Hunters!  
@@ -7,12 +7,12 @@ This is my personal blog, where I document and share insights, notes, walkthroug
 
 Connect with me:
 
-- [Medium](#)
-- [X (formerly Twitter)](#)
-- [LinkedIn](#)
-- [GitHub](#)
+- [Medium](https://medium.com/@0xhunterr)
+- [X (formerly Twitter)](https://x.com/HunterXReda)
+- [LinkedIn](https://www.linkedin.com/in/0xhunter/)
+- [GitHub](https://github.com/0xHunterr)
 
-For the best experience, explore the content through our [Gitbook](#).
+For the best experience, explore the content through our [Gitbook](https://0xhunterr.gitbook.io/the-nen-book).
 
 ## **What to Expect**
 
