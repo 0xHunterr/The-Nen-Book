@@ -11,7 +11,7 @@
 	- [PicoCTF 2024 Web Exploitation Challenges](Writeups/PicoCTF/PicoCTF%202024%20Web%20Exploitation%20Challenges.md)
 	- [PicoCTF 2024 General Skills Challenges](Writeups/PicoCTF/PicoCTF%202024%20General%20Skills%20Challenges.md)
 	- [PicoCTF 2021 Web Exploitation Challenges Walkthrough](Writeups/PicoCTF/PicoCTF%202021%20Web%20Exploitation%20Challenges%20Walkthrough.md)
-	- [PicoCTF 2021 Web Exploitation Challenges Walkthrough](Writeups/PicoCTF/PicoCTF%202021%20Web%20Exploitation%20Challenges%20Walkthrough.md)
+	- [PicoCTF 2019 Web Exploitation Challenges](Writeups/PicoCTF/PicoCTF%202019%20Web%20Exploitation%20Challenges.md)
 ## 🕸️ Web_AppSec
 * [Web_Recon](Web_AppSec/Web_Recon.md) 
 * [ATO](Web_AppSec/ATO.md)
