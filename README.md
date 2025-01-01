@@ -34,4 +34,4 @@ Your contributions are highly encouraged! Feel free to submit a pull request to 
 - [X (formerly Twitter)](https://x.com/HunterXReda)
 - [LinkedIn](https://www.linkedin.com/in/0xhunter/)
 - [GitHub](https://github.com/0xHunterr)
-- Email: **sir_reda@intigriti.me**
+- Email: sir_reda@intigriti.me
