@@ -2,7 +2,7 @@
 ![](Media/wallpaperflare.com_wallpaper%20(3).jpg)
 
 Greetings, Hunters!  
-This is Ahmed Reda AKA Sir_Reda (@0xHunterr) —a passionate OffSec Samurai. 
+This is Ahmed Reda AKA zRed4 (@0xHunterr) —a passionate OffSec Samurai. 
 This is my personal blog, where I document and share insights, notes, walkthroughs, and methodologies from my learning journey in cybersecurity. Drawing from various resources, books, and hands-on experiences.
 
 Connect with me:
