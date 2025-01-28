@@ -1,6 +1,8 @@
 - [Whoami](README.md)
 -  [Write-ups](Writeups/README.md)
 	- [Hack The Box](Writeups/HTB/README.md)
+		- [Escape two](Writeups/HTB/Escape%20two.md)
+		- [Cicada](Writeups/HTB/Cicada.md)
 		- [HTB Permx Machine(CVE-2023–4220 Chamilo LMS)](Writeups/HTB/HTB%20Permx%20Machine(CVE-2023–4220%20Chamilo%20LMS).md)
 	- [Intigriti 1337Up 2024](Writeups/Intigriti%201337Up%202024/README.md)
 		- [Intigriti 1337Up 2024-CTF OSINT Challenges](Writeups/Intigriti%201337Up%202024/Intigriti%201337Up%202024-CTF%20OSINT%20Challenges.md)
