@@ -1,5 +1,5 @@
 - [Whoami](README.md)
--  [Write-ups](Writeups/README.md)
+-  [Walkthroughs & Write-ups](Writeups/README.md)
 	- [Hack The Box](Writeups/HTB/README.md)
 		- [Escape two](Writeups/HTB/Escape%20two.md)
 		- [Cicada](Writeups/HTB/Cicada.md)
