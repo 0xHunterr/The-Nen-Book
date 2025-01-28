@@ -2,7 +2,7 @@
 
 * [Whoami](README.md)
 * [Walkthroughs & Write-ups](Writeups/README.md)
-* [My CTF Methodology](My%20CTF%20Methodology.md)
+	* [My CTF Methodology](My%20CTF%20Methodology.md)
   * [Hack The Box](Writeups/HTB/README.md)
     * [Escape two](<Writeups/HTB/Escape two.md>)
     * [Cicada](Writeups/HTB/Cicada.md)
