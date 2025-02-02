@@ -1,5 +1,5 @@
 
-```
+```bash
 smbclient \\\\10.10.11.35\\DEV -U 'david.orelious' -p 'aRt$Lp#7t*VQ!3'
 --------------------------------------------------------------------
 cat Backup_script.ps1 
