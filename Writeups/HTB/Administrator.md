@@ -1,3 +1,4 @@
+
 ```bash
 └─$ cat adminscan        
 # Nmap 7.94SVN scan initiated Sun Feb  2 09:12:58 2025 as: nmap -Pn -sC -sV -T4 -o adminscan 10.10.11.42
