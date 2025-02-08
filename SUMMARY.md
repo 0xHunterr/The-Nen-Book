@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Whoami](README.md)
-* [Walkthroughs & Write-ups](Writeups/README.md)
-	* [My CTF Methodology](My%20CTF%20Methodology.md)
+* [Walkthroughs & Wright-ups](Writeups/README.md)
+  * [My CTF Methodology](<My CTF Methodology.md>)
   * [Hack The Box Machines](Writeups/HTB/README.md)
-	* [Administrator](Writeups/HTB/Administrator.md)
+    * [Administrator](Writeups/HTB/Administrator.md)
     * [Escape two](<Writeups/HTB/Escape two.md>)
     * [Cicada](Writeups/HTB/Cicada.md)
     * [HTB Permx Machine(CVE-2023–4220 Chamilo LMS)](<Writeups/HTB/HTB Permx Machine(CVE-2023–4220 Chamilo LMS).md>)
