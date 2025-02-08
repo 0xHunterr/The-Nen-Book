@@ -23,7 +23,7 @@
   * [Web\_Recon](Web_AppSec/Web_Recon.md)
   * [SQlI](Web_AppSec/SQlI.md)
   * [ATO](Web_AppSec/ATO.md)
-  * [Backend\_Technology\_Tips](Web_AppSec/Backend_Technology_Tips.md)
+  * [Backend\_Technology\_Tricks](Web_AppSec/Backend_Technology_Tricks.md)
   * [XSS](Web_AppSec/XSS.md)
   * [SSRF](Web_AppSec/SSRF.md)
   * [CSRF](Web_AppSec/CSRF.md)
