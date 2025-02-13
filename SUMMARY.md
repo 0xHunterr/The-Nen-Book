@@ -21,7 +21,7 @@
     * [PicoCTF 2019 Web Exploitation Challenges](<Writeups/PicoCTF/PicoCTF 2019 Web Exploitation Challenges.md>)
 * [Web\_AppSec](Web_AppSec/README.md)
   * [Web\_Recon](Web_AppSec/Web_Recon.md)
-  * [SQlI](Web_AppSec/SQlI.md)
+  * [SQli](Web_AppSec/SQli.md)
   * [ATO](Web_AppSec/ATO.md)
   * [Backend\_Technology\_Tricks](Web_AppSec/Backend_Technology_Tricks.md)
   * [XSS](Web_AppSec/XSS.md)
