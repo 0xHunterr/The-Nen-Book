@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Whoami](README.md)
-* [Walkthroughs & Wright-ups](Writeups/README.md)
+* [Walkthroughs & Wrightups](Writeups/README.md)
   * [My CTF Methodology](<My CTF Methodology.md>)
   * [Hack The Box Machines](Writeups/HTB/README.md)
     * [Administrator](Writeups/HTB/Administrator.md)
