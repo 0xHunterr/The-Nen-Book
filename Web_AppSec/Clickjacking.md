@@ -17,7 +17,7 @@ allowfullscreen>
 Let’s say that `example.com` is a banking site that includes a page for transferring your money with a click of a button.
 You can access the balance transfer page with the URL `https:// www.example.com/transfer_money`, This URL accepts two parameters: the recipient account ID and the transfer amount If you visit the URL with these parameters present, such as `https://www.example.com/transfer_money?recipient=RECIPIENT_ACCOUNT &amount=AMOUNT_TO_TRANSFER`, the HTML form on the page will appear prefilled 
 
-![](../../Media/Web%20AppSec%20Images/Pasted%20image%2020240221221121.png)
+![](../Media/Web%20AppSec%20Images/Pasted%20image%2020240221221121.png)
 
 Now imagine that an attacker embeds this sensitive banking page in an `iframe` on their own site, like this:
 ```html
@@ -73,10 +73,10 @@ cybersecurity articles in your email inbox!</h3>
 
 so if we set the opacity back to 1, You can see that the Transfer Balance button is located directly on top of the Subscribe to Newsletter button
 
-![](../../Media/Web%20AppSec%20Images/Pasted%20image%2020240221221606.png)
+![](../Media/Web%20AppSec%20Images/Pasted%20image%2020240221221606.png)
 
 Once we reset the opacity of the `iframe` to opacity:0.00001 to make the sensitive form invisible, the site looks like a normal newsletter page
-![](../../Media/Web%20AppSec%20Images/Pasted%20image%2020240221221720.png)
+![](../Media/Web%20AppSec%20Images/Pasted%20image%2020240221221720.png)
 
 If the user is logged into the banking site, they’ll be logged into the `iframe` too, so the banking site’s server will recognize the requests sent by the `iframe` as legit. When the user clicks the seemingly harmless button, they’re executing a balance transfer on `example.com`!
 ==This is a simplified example. In reality, payment applications will not be implemented this way==, because it would violate data security standards
@@ -203,7 +203,7 @@ else{
 2. construct a page that frames the victim’s targeted functionality
 3. Then place the entire page in an `iframe` hosted by the victim site
 
-![](../../Media/Web%20AppSec%20Images/Pasted%20image%2020240221221817.png)
+![](../Media/Web%20AppSec%20Images/Pasted%20image%2020240221221817.png)
 
 This way, both` top.location` and `self.location` point to `victim.com`, The frame-busting code would determine that the innermost victim.com page is framed by another victim.com page within its domain
 

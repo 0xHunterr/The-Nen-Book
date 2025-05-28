@@ -150,4 +150,4 @@ Here you can find an extensive summary of all the tools mentioned in this articl
 
 ### Automation
 
-Once you have a solid understanding of how to conduct recon on a target, you can try to leverage recon platforms like \[Nuclei]\(https://github.com/projectdiscovery/ nuclei/) or [Intrigue Core](https://github.com/intrigueio/intrigue-core/) to make your recon process more efficient. But when you’re starting out, I recommend that you do recon manually with individual tools or write your own automated recon scripts to learn about the process for Bash Script tutorial visit [Bash\_Scripting](../web_appsec/bash_scripting.md)
+Once you have a solid understanding of how to conduct recon on a target, you can try to leverage recon platforms like \[Nuclei]\(https://github.com/projectdiscovery/ nuclei/) or [Intrigue Core](https://github.com/intrigueio/intrigue-core/) to make your recon process more efficient. But when you’re starting out, I recommend that you do recon manually with individual tools or write your own automated recon scripts to learn about the process for Bash Script tutorial visit [Bash\_Scripting](bash_scripting.md)
