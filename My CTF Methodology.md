@@ -197,3 +197,12 @@ When prompted for a password, simply press the `Enter` key and see if it will 
 - `put` to test write permissions as a way to perhaps chain an exploit with another service
 We're trying to uncover (Usernames Passwords Configuration files Source code Backups Anything interesting)
 ## SMB — TCP/139 & TCP/445
+
+==to enum with the null session use creds like that: nxc smb reda.local -u "Guest" -p "" --shares ==
+- enum shares `nxc smb reda.local -u "" -p "" --shares` 
+- enum users  `nxc smb reda.local -u "" -p "" --users` 
+- enum pass-pol  `nxc smb reda.local -u "" -p "" --pass-pol` 
+- enum groups `nxc smb reda.local -u "" -p "" --groups` 
+
+
+

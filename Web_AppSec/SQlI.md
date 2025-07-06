@@ -8,4 +8,3 @@
 - Try commenting at the end of your payload but don't always rely on it sometimes it won't work for the complex queries
 - Instead of comments, try to match the quotes ex-> ` Sirreda' and 1='1` (the single quote before the 1 will be closed with the one in the original query in the backend)
 - 
-- 

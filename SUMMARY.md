@@ -20,7 +20,7 @@
     * [PicoCTF 2021 Web Exploitation Challenges Walkthrough](<Writeups/PicoCTF/PicoCTF 2021 Web Exploitation Challenges Walkthrough.md>)
     * [PicoCTF 2019 Web Exploitation Challenges](<Writeups/PicoCTF/PicoCTF 2019 Web Exploitation Challenges.md>)
 * [Web\_AppSec](Web_AppSec/README.md)
-	* [Pentesting_Checklist](Web_AppSec/Pentesting_Checklist.md)
+	* [Pentesting_Methodlogy&Checklist](Web_AppSec/Pentesting_Methodlogy&Checklist.md)
 	* [Web\_Recon](Web_AppSec/Web_Recon.md)
 	* [SQli](Web_AppSec/SQli.md)
 	* [ATO](Web_AppSec/ATO.md)
